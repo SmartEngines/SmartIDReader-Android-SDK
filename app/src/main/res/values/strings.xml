@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart IDReader Demo</string>
+    <string name="noResult">No recognized data found</string>
+    <string name="retry">Retry</string>
+</resources>
