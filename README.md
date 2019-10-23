@@ -1,6 +1,6 @@
 # Smart IDReader Android SDK - Demo version
 
-This is a **DEMO** version of [Smart IDReader](http://smartengines.biz/products/smart-id-recognition/) Android SDK by [Smart Engines](http://smartengines.biz) which demonstrates the usage of Smart IDReader library/SDK without actually providing any recognition functionality. 
+This is a **DEMO** version of [Smart IDReader](http://smartengines.com/products/smart-id-recognition/) Android SDK by [Smart Engines](http://smartengines.biz) which demonstrates the usage of Smart IDReader library/SDK without actually providing any recognition functionality. 
 Instead, it outputs fake results for document search, field segmentation, recognition and photo image extraction. 
 
 Simply open `SmartIDReader-Android-SDK.iml` with Android Studio and run it to see the working example.
@@ -12,7 +12,7 @@ Free demonstrational applications with full functionality are available at [Goog
 
 If you'd like to obtain a trial or full version of Smart IDReader please contact us via:
 * support@smartengines.biz 
-* http://smartengines.biz/contacts
+* http://smartengines.com/contacts
 * http://smartengines.ru/contacts
 
 Test and trial/full versions are only different in static library + configuration files so you wouldn't have to rewrite any code after you're finished integrating Smart IDReader SDK into your application.
